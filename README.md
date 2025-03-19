@@ -14,8 +14,9 @@
 ### ⚙️ Tech Stack
 
 - 🛠 **Languages:** TypeScript, JavaScript, Python, SQL, PHP
-- 🌐 **Frontend:** React js, Angular Js, HTML, CSS, TailwindCss
-- 🏗 **Backend:** Flask, Laravel
+- 🌐 **Frontend:** HTML, CSS, TailwindCss
+- 🏗 **Backend:** Python, PHP 
+- 🏗️ **Frameworks: ** React JS, Angular JS, Tailwind Css, Flask, Laravel
 - 🗄 **Database:** MySQL and NoSQL
 - 🔧 Familiar with: C#, C++, Java
 - 🔧 **Tools & Others:** Git, Docker, Linux, MD 
@@ -23,7 +24,7 @@
 ### 📬 Connect with Me
 
 - 📧 Email: [fuentes.lemuelayanot@gmail.com](mailto:your.email@example.com)
-- 🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 🔗 LinkedIn: [Your LinkedIn](www.linkedin.com/in/lemuel-ayanot-fuentes-ayala-42735b205)
 - 🐙 GitHub: [@lfuentes-xd](https://github.com/lfuentes-xd)
 
 ---
