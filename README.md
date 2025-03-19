@@ -23,8 +23,8 @@
 
 ### 📬 Connect with Me
 
-- 📧 Email: [fuentes.lemuelayanot@gmail.com](mailto:your.email@example.com)
-- 🔗 LinkedIn: [Your LinkedIn](www.linkedin.com/in/lemuel-ayanot-fuentes-ayala-42735b205)
+- 📧 Email: [fuentes.lemuelayanot@gmail.com](fuentes.lemuelayanot@gmail.com)
+- 🔗 LinkedIn: [Lemuel Fuentes](www.linkedin.com/in/lemuel-ayanot-fuentes-ayala-42735b205)
 - 🐙 GitHub: [@lfuentes-xd](https://github.com/lfuentes-xd)
 
 ---
