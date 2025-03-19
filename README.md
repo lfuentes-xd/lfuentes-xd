@@ -16,7 +16,7 @@
 - 🛠 **Languages:** TypeScript, JavaScript, Python, SQL, PHP
 - 🌐 **Frontend:** HTML, CSS, TailwindCss
 - 🏗 **Backend:** Python, PHP 
-- 🏗️ **Frameworks: ** React JS, Angular JS, Tailwind Css, Flask, Laravel
+- 🏗️ **Frameworks:** React JS, Angular JS, Tailwind Css, Flask, Laravel
 - 🗄 **Database:** MySQL and NoSQL
 - 🔧 Familiar with: C#, C++, Java
 - 🔧 **Tools & Others:** Git, Docker, Linux, MD 
