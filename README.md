@@ -1,18 +1,30 @@
-<center>
-  ## Hi there 👋 I´m Lemuel Fuentes
-</center>
+<p align="center">
+  <h2>Hi there 👋 I’m Lemuel!</h2>
+</p>
 
-<!--
-**lfuentes-xd/lfuentes-xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Web Developer** | Passionate about **TypeScript, Python, React.js, Flask & MySQL**  
+- 🌱 Always learning and improving my skills!
+- 🔥 Interested in **Full-Stack Development & AI**
+- 🤝 Open to collaborations and exciting projects
+
+### ⚙️ Tech Stack
+
+- 🛠 **Languages:** TypeScript, JavaScript, Python
+- 🌐 **Frontend:** React.js, Vite, HTML, CSS
+- 🏗 **Backend:** Flask, Node.js
+- 🗄 **Database:** MySQL
+- 🔧 **Tools & Others:** Git, Docker, Linux
+
+### 📬 Connect with Me
+
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 🐙 GitHub: [@lfuentes-xd](https://github.com/lfuentes-xd)
+
+---
+
+<p align="center">✨ Keep coding and building amazing things! ✨</p>
